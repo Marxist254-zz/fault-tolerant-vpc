@@ -265,4 +265,3 @@ Resources:
           Value: Database Security Group
       VpcId: !Ref VPC
 
-#Outputs:
